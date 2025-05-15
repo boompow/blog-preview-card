@@ -24,7 +24,7 @@ The project consists of a blog preview card that displays an article illustratio
 ### Links
 
 - Solution URL: [GitHub](https://github.com/boompow/blog-preview-card)
-- Live Site URL: [Vercel](https://blog-preview-card-boompow.vercel.app/)
+- Live Site URL: [Vercel](https://blog-preview-card-pi-one.vercel.app/)
 
 ## Built With
 
